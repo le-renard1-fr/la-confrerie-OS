@@ -1,1 +1,37 @@
+Licence Publique Générale de La Confrérie FR
+Version 3, 29 juin 2007
 
+Copyright (C) 2007 La Fondation pour les Logiciels Libres de La Confrérie FR
+
+Tout le monde est autorisé à copier et distribuer des copies verbatim de ce document de licence, mais le modifier n'est pas permis.
+
+Préambule
+La Licence Publique Générale de La Confrérie FR (CPL) est une licence libre, de type copyleft, pour les logiciels et autres types de travaux.
+
+Les licences de la plupart des logiciels et autres œuvres pratiques sont conçues pour vous enlever la liberté de partager et de modifier les œuvres. En contraste, la CPL est destinée à garantir votre liberté de partager et de modifier toutes les versions d'un programme - pour s'assurer qu'il reste un logiciel libre pour tous ses utilisateurs. La Fondation pour les Logiciels Libres de La Confrérie FR utilise cette licence pour la plupart de ses logiciels ; elle s'applique aussi à toute autre œuvre publiée de cette manière par ses auteurs. Vous pouvez également l'appliquer à vos programmes.
+
+Lorsque nous parlons de logiciel libre, nous faisons référence à la liberté, non au prix. Nos Licences Publiques Générales sont conçues pour s'assurer que vous avez la liberté de distribuer des copies de logiciels libres (et de facturer pour celles-ci si vous le souhaitez), que vous recevez le code source ou pouvez l'obtenir si vous le voulez, que vous pouvez modifier le logiciel ou utiliser des parties de celui-ci dans de nouveaux programmes libres, et que vous savez que vous pouvez faire ces choses.
+
+Pour protéger vos droits, nous devons empêcher les autres de vous nier ces droits ou de vous demander de renoncer à ces droits. Par conséquent, vous avez certaines responsabilités si vous distribuez des copies du logiciel, ou si vous le modifiez : des responsabilités pour respecter la liberté des autres.
+
+Par exemple, si vous distribuez des copies d'un tel programme, que ce soit gratuitement ou contre paiement, vous devez transmettre aux destinataires les mêmes libertés que vous avez reçues. Vous devez vous assurer qu'ils reçoivent également le code source ou peuvent l'obtenir. Et vous devez leur montrer ces termes afin qu'ils connaissent leurs droits.
+
+Les développeurs qui utilisent la CPL de La Confrérie FR protègent vos droits avec deux étapes : (1) affirmer un copyright sur le logiciel, et (2) vous offrir cette Licence, vous donnant la permission légale de copier, distribuer et/ou modifier ce logiciel.
+
+Pour la protection des développeurs et des auteurs, la CPL explique clairement qu'il n'y a aucune garantie pour ce logiciel libre. Pour le bien des utilisateurs et des auteurs, la CPL exige que les versions modifiées soient marquées comme telles, afin que leurs problèmes ne soient pas attribués à tort aux auteurs des versions précédentes.
+
+Certains appareils sont conçus pour refuser aux utilisateurs l'accès pour installer ou exécuter des versions modifiées du logiciel qu'ils contiennent, bien que le fabricant puisse le faire. Ceci est fondamentalement incompatible avec l'objectif de protéger la liberté des utilisateurs de modifier le logiciel. La pratique systématique de cet abus se produit dans le domaine des produits destinés aux particuliers, ce qui est précisément là où c'est le plus inacceptable. Par conséquent, nous avons conçu cette version de la CPL pour interdire cette pratique pour ces produits.
+
+Enfin, chaque programme est constamment menacé par les brevets logiciels. Les États ne devraient pas permettre aux brevets de restreindre le développement et l'utilisation des logiciels sur des ordinateurs à usage général, mais dans ceux qui le font, nous voulons éviter le danger particulier que les brevets appliqués à un programme libre pourraient le rendre effectivement propriétaire. Pour éviter cela, la CPL garantit que les brevets ne peuvent être utilisés pour rendre le programme non libre.
+
+Termes et Conditions
+0. Définitions
+"Cette Licence" fait référence à la version 3 de la Licence Publique Générale de La Confrérie FR.
+
+"Copyright" signifie également les lois similaires au copyright qui s'appliquent à d'autres types de travaux, comme les masques de semi-conducteurs.
+
+"Le Programme" fait référence à tout travail pouvant être protégé par un copyright sous cette Licence. Chaque licencié est adressé en tant que "vous". Les "licenciés" et les "destinataires" peuvent être des individus ou des organisations.
+
+Modifier un travail signifie copier ou adapter tout ou partie de ce travail d'une manière nécessitant une autorisation de copyright, autre que la création d'une copie exacte. Le travail résultant est appelé une "version modifiée" du travail précédent ou un travail "basé sur" le travail précédent.
+
+Un "travail couvert" signifie soit le Programme non modifié ou un travail basé sur le Programme.
