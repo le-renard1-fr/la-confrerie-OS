@@ -1,11 +1,11 @@
-## Security Policy
+## Politique de sécurité
 
-### Vulnerability Reporting
+### Signalement des vulnérabilités
 
-At Atlas, our primary objective is to provide an optimal equilibrium between security, performance, and usability.
+Chez La Confrérie OS, notre objectif principal est de fournir un équilibre optimal entre la sécurité, la performance et l'ergonomie.
 
-As Atlas is built on Windows, a proprietary operating system developed by Microsoft, we may not have solutions for security issues associated with Windows. Nonetheless, we are committed to addressing any security concerns caused by Atlas and welcome any enhancements made to the base Windows. We encourage the submission of GitHub issues and pull requests that relate to security vulnerabilities, as long as the solutions match our objective of having an equilibrium.
+Étant donné que La Confrérie OS repose sur Windows, un système d'exploitation propriétaire développé par Microsoft, il se peut que nous n'ayons pas de solutions pour les problèmes de sécurité associés à Windows. Cependant, nous nous engageons à résoudre toute préoccupation de sécurité causée par La Confrérie OS et accueillons toutes les améliorations apportées à la version de base de Windows. Nous encourageons la soumission de problèmes et de demandes de tirage (pull requests) sur GitHub en lien avec des vulnérabilités de sécurité, tant que les solutions respectent notre objectif d'équilibre.
 
-Should you discover any security flaws linked to the Atlas-specific software/tools or [AME Wizard](https://ameliorated.io) (i.e., anything not related to Microsoft), kindly notify us immediately through the appropriate channels. For AME Wizard, please visit the [website](https://ameliorated.io) to identify suitable contacts. For all other issues, report them to the corresponding Atlas repository as an issue.
+Si vous découvrez des failles de sécurité liées au logiciel/outil spécifique de La Confrérie OS ou à [AME Wizard](https://ameliorated.io) (c'est-à-dire tout ce qui n'est pas lié à Microsoft), veuillez nous en informer immédiatement par les canaux appropriés. Pour AME Wizard, veuillez consulter le [site web](https://ameliorated.io) pour identifier les contacts appropriés. Pour tous les autres problèmes, signalez-les dans le dépôt GitHub correspondant de La Confrérie OS en tant que problème.
 
-Please note that some issues may not be rectifiable by us. If you come across a vulnerability in Atlas that is also present in the latest version of stock/vanilla Windows, please report it to Microsoft. For more information on reporting security vulnerabilities and pentesting, please visit the [Microsoft](https://www.microsoft.com/en-us/msrc/faqs-report-an-issue) website. We wish you the best of luck in your reporting endeavor.
+Veuillez noter que certaines vulnérabilités peuvent ne pas être rectifiables par nos soins. Si vous découvrez une vulnérabilité dans La Confrérie OS qui existe également dans la version la plus récente de Windows "vanille", veuillez la signaler à Microsoft. Pour plus d'informations sur le signalement des vulnérabilités de sécurité et les tests de pénétration (pentesting), veuillez consulter le site [Microsoft](https://www.microsoft.com/en-us/msrc/faqs-report-an-issue). Nous vous souhaitons bonne chance dans vos démarches de signalement.
