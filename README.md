@@ -1,6 +1,4 @@
 <h1 align="center">
-  <a href="http://la-confrerie-os.net" target="_blank"><img src="https://gcore.jsdelivr.net/gh/Atlas-OS/branding@main/banners/banner-v3.png" alt="La Confrérie OS" width="800"></a>
-</h1>
 <p align="center">
   <a href="https://github.com/le-renard1-fr/la-confrerie-OS/blob/main/LICENSE"><img alt="Licence" src="https://img.shields.io/github/license/le-renard1-fr/la-confrerie-OS?style=for-the-badge&logo=github&color=1A91FF"/></a>
   <a href="https://github.com/le-renard1-fr/la-confrerie-OS/graphs/contributors"><img alt="Contributeurs" src="https://img.shields.io/github/contributors/le-renard1-fr/la-confrerie-OS?style=for-the-badge&color=1A91FF" /></a>
